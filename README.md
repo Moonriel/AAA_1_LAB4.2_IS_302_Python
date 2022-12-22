@@ -1,4 +1,4 @@
-# AAA_1_LAB4_IS_302_Python
+# AAA_1_LAB4.2_IS_302_Python
 
 ![4](https://user-images.githubusercontent.com/75249457/209157999-1c24cdf9-2d10-4c35-8ac4-2b289f482814.jpg)
 
